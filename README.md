@@ -13,7 +13,8 @@
 <br/>
 
 ## Data Visualizations
-!['UC Berkeley's admissions by ethnicity, per county (2022)', 'UC Berkeley's admissions by ethnicity, per county (2022)'](/_.jpg)
+[Choropleth map](https://www.datawrapper.de/_/QlWaa/) that displays the number of students who were admitted to UC Berkeley in each California county. Scroll over each county to see a breakdown of UC Berkeley's admissions by ethnicity. 
+!['UC Berkeley's admissions by ethnicity, per county (2022)', 'UC Berkeley's admissions by ethnicity, per county (2022)'](/QlWaa-uc-berkeley-s-admissions-by-ethnicity-per-county-2022-.jpg)
 <br/>
 
 <br/>

@@ -114,7 +114,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 
 1.  Make a copy of the original sheet of data. Sort the “All” column from Z → A to find the schools that had the highest number of total applicants. <br/>!['Analysis 6', 'Analysis 6'](/25.jpg)
 ###   _As shown, Dougherty Valley High School had the highest number of total applicants (at 547 students). This occurred in 2022._ 
-2.  To find the average number of total applicants across all schools from 2012 to 2022, click on the “All” column and locate the “Sum” button on the bottom right of the sheet. <br/>!['Analysis 6', 'Analysis 6'](/26.jpg)
+2.  To find the average number of total applicants across all schools from 2012 to 2022, click on the “All” column and locate the “Sum” button on the bottom right of the sheet. <br/>
 3.  Click on the “Sum” button and select “Avg”. <br/>!['Analysis 6', 'Analysis 6'](/27.jpg)
 ###   _As shown, the average number of total applicants across all schools from 2012 to 2022 was 25.73 applicants._ 
 

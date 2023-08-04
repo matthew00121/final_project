@@ -1,4 +1,4 @@
-# J124 Final Project: UC Berkeley admissions by ethnicity, from 2012 to 2022
+# J124 Final Project: UC Berkeley admissions by ethnicity (2012 to 2022)
 ## By Matthew Yoshimoto
 <br/>
 

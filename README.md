@@ -21,10 +21,11 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 
 ### Analysis 1: Which county had the overall highest number of Hispanic/ Latinx admits from 2012 to 2022? 
 1.  Create a pivot table with “Count” as the first row, followed by “County/State/Territory” as the next row. Set “Hispanic/Latinx” as the column. Summarize by “SUM.” 
-Make sure to look at the admits category. Feel free to minize the applicants and enrolled categories. 
-	
-2.  Copy and paste without formatting the admits values to a new sheet.
-Sort the column “Hispanic/Latinx” from Z → A to find the county with the highest number of Hispanic/Latinx admits.
+!['Analysis 1', 'Analysis 1'](/2.jpg)<br/>
+2.	Make sure to look at the admits category. Feel free to minize the applicants and enrolled categories.
+!['Analysis 1', 'Analysis 1'](/3.jpg)
+3.	Copy and paste without formatting the admits values to a new sheet.!['Analysis 1', 'Analysis 1'](/4.jpg)
+4.	Sort the column “Hispanic/Latinx” from Z → A to find the county with the highest number of Hispanic/Latinx admits.
 
 #### *  As shown, Los Angeles County has the highest number of Hispanic/Latinx admits at UC Berkeley from 2012 to 2022, with a total of 3041 students. 
 
@@ -44,9 +45,9 @@ Make sure to look at the admitted category. Feel free to minize the applied and 
 ### Analysis 3: From 2012 to 2022, what were the top ethnicities of students who were admitted most often? How does this compare to the top ethnicities of students who applied most often?
 
 1.  Create a pivot table with “Count” as the first row, followed by “Year” as the next row. Set all ethnicities (“African American,” “American Indian,” “Hispanic/ Latinx,” “Pacific Islander,” “Asian,” “White,” “Domestic Unknown,” “Int'l”) as the column. Summarize all by “SUM.” 
-Make sure to look at the admitted category. Feel free to minize the applied and enrolled categories. 
+2.	Make sure to look at the admitted category. Feel free to minize the applied and enrolled categories. 
 
-2.  As shown in the admits total row, Asian students were admitted the most often (at 30,671 students), followed by white admits (at 13,226 students) and Hispanic/Latinx admits (at 7,979 students). 
+*	As shown in the admits total row, Asian students were admitted the most often (at 30,671 students), followed by white admits (at 13,226 students) and Hispanic/Latinx admits (at 7,979 students). 
 
 3.  Looking at the same pivot table, expand the applied category and minimize the admitted category. 
 
@@ -56,16 +57,18 @@ Make sure to look at the admitted category. Feel free to minize the applied and 
 ### Analysis 4: From 2012 to 2022, which counties had the highest number of white enrollees? How many counties had zero white enrollees? 
 
 1.  Create a pivot table with “Count” as the first row, followed by “County/State/Territory” as the next row. Set “White” as the column. Summarize all by “SUM.” 
-Make sure to look at the enrolled category. Feel free to minize the applied and admitted categories. 
 
-2.  Copy and paste without formatting the enrolled values to a new sheet. 
-Sort the column “SUM of White” from Z → A to find the county with the highest number of white enrollees.
+2.	Make sure to look at the enrolled category. Feel free to minize the applied and admitted categories. 
+
+3.  Copy and paste without formatting the enrolled values to a new sheet. 
+
+4.	Sort the column “SUM of White” from Z → A to find the county with the highest number of white enrollees.
 
 #### *  As shown, Los Angeles County has the highest number of white enrollees from 2012 to 2022, with a total of 1249 students. This is followed by San Diego County (at 624 enrollees) and Orange County (at 575 enrollees). 
 
-3.  Now create another pivot table using the data on this new sheet. 
+5.  Now create another pivot table using the data on this new sheet. 
 
-4.  Set “White” as the row and set “County/State/Territory” as the column. Summarize by “COUNTA.” 
+6.  Set “White” as the row and set “County/State/Territory” as the column. Summarize by “COUNTA.” 
 
 #### *  As shown, there are 23 counties that never had a white enrollee from 2012 to 2022. 
 

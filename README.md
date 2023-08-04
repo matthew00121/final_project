@@ -12,14 +12,20 @@
 ### Additional Sources
 <br/>
 
+https://edsource.org/2020/latino-students-make-up-largest-ethnic-group-of-students-admitted-to-uc/636230
+
+
+
 ## Data Visualizations
+[Line chart](https://www.datawrapper.de/_/BKgwV/) that displays the number of students who were admitted to UC Berkeley from each ethnicity. Scroll over each line to see the number of admitted students from each ethnicity across the last decade. 
+!['UC Berkeley's admissions by ethnicity, from 2012-2022', 'UC Berkeley's admissions by ethnicity, from 2012-2022'](/450.jpg)
+<br/>
+<br/>
+<br/>
 [Choropleth map](https://www.datawrapper.de/_/QlWaa/) that displays the number of students who were admitted to UC Berkeley in each California county. Scroll over each county to see a breakdown of UC Berkeley's admissions by ethnicity. 
 !['UC Berkeley's admissions by ethnicity, per county (2022)', 'UC Berkeley's admissions by ethnicity, per county (2022)'](/222.jpg)
 <br/>
 
-[Line chart](https://www.datawrapper.de/_/BKgwV/) that displays the number of students who were admitted to UC Berkeley from each ethnicity. Scroll over each line to see the number of admitted students from each ethnicity across the last decade. 
-!['UC Berkeley's admissions by ethnicity, from 2012-2022', 'UC Berkeley's admissions by ethnicity, from 2012-2022'](/.jpg)
-<br/>
 <br/>
 
 ## Data Analysis Process 

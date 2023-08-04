@@ -11,7 +11,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 4.  From 2012 to 2022, which counties had the highest number of white enrollees? How many counties had zero white enrollees?  <br/>
 5.  From 2012 to 2022, what was the average number of international applicants per each county? Only include the counties that had an average of seven or more international applicants. _Round to the nearest hundredths place._  <br/>
 6.  Which school had the highest number of total applicants, and in which year did this occur? What was the average number of total applicants across all schools from 2012 to 2022? _Round to the nearest hundredths place._  <br/>
-7.  In 2018, what were the top counties with the highest number of total African American applicants, admits, and enrollees? <br/>
+7.  In 2018, what were the top counties with the highest number of total African American applicants, admits and enrollees? <br/>
 
 ### Key Assumptions
 *  The schools listed are all public high schools in California, including charter schools. <br/>
@@ -80,7 +80,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 
 <br/><br/>
 
-## Analysis 5: From 2012 to 2022, what was the average number of international applicants per each county? Only include the counties that had an average of seven or more international applicants. _Round to the nearest hundredths place._ 
+## Analysis 5: From 2012 to 2022, what was the average number of international applicants per each county? _Only include the counties that had an average of *seven* or more international applicants. Round to the nearest hundredths place._ 
 
 1.  Create a pivot table with “Count” as the first row, followed by “County/State/Territory” as the next row. Set “Int’l” as the column. Summarize by “AVERAGE.” <br/> !['Analysis 5', 'Analysis 5'](/18.jpg)
 2.  Make sure to look at the applied category. Feel free to minize the admitted and enrolled categories. _*The “DIV/0!” will appear for counties that had no international applicants._
@@ -89,7 +89,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 4.  To round to nearest hundredths, format the values as “Number”.!['Analysis 5', 'Analysis 5'](/22.jpg)
 5.  Copy and paste without formatting the enrolled values to a new sheet. 
 6.  Sort the column “AVERAGE of Int’l” from Z → A to find the counties that had the highest averages of international applicants. <br/>!['Analysis 5', 'Analysis 5'](/24.jpg)
-###   _As shown, from 2012 to 2022, San Joaquin County had 9.67 applicants, Santa Clara County had 9.38 applicants, Alameda County had an average of 8.20 international applicants, San Diego County had 7.27 applicants, and Contra Costa County had 7.13 applicants._
+###   _As shown, from 2012 to 2022, San Joaquin County had 9.67 applicants, Santa Clara County had 9.38 applicants, Alameda County had an average of 8.20 international applicants, San Diego County had 7.27 applicants and Contra Costa County had 7.13 applicants._
 
 
 <br/><br/>
@@ -106,11 +106,11 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 
 <br/><br/>
 
-## Analysis 7: In 2018, what were the top counties with the highest number of total African American applicants, admits, and enrollees?
+## Analysis 7: In 2018, what were the top counties with the highest number of total African American applicants, admits and enrollees?
 
 1.  Create a pivot table with “Year” as the first row, followed by “County/State/Territory” as the next row. Set “African American” as the column. Summarize by “SUM.” <br/>!['Analysis 7', 'Analysis 7'](/28.jpg)
-2.  Make sure to look at 2018 category. Feel free to minize the 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2021, and 2022 categories. 
+2.  Make sure to look at 2018 category. Feel free to minize the 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2021 and 2022 categories. 
 3.  Copy and paste without formatting the values from 2018 to a new sheet. 
-4.  Sort the column “SUM of African American” from Z → A to find the county with the highest number of total African American applicants, admits, and enrollees.<br/>
+4.  Sort the column “SUM of African American” from Z → A to find the county with the highest number of total African American applicants, admits and enrollees.<br/>
 !['Analysis 7', 'Analysis 7'](/31.jpg)
 ###   _As shown, Los Angeles County had the highest number of total African American applicants, admits, and enrollees. This is followed by Alameda County (at 205 students) and San Diego County (at 125 students)._ 

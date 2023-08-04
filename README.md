@@ -121,5 +121,16 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 ## Data Visualizations
 <br/>
 
-## Story Summary
+## Story Pitch
 <br/>
+
+## Sourcing
+<br/>
+
+### Potential Interview Contacts
+<br/>
+
+### Additional Sources
+<br/>
+
+

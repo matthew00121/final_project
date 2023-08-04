@@ -70,7 +70,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 3.  Copy and paste without formatting the enrolled values to a new sheet. <br/>
 4.	Sort the column “SUM of White” from Z → A to find the county with the highest number of white enrollees.<br/>
 !['Analysis 4', 'Analysis 4'](/15.jpg)
-###   _As shown, Los Angeles County has the highest number of white enrollees from 2012 to 2022, with a total of 1249 students. This is followed by San Diego County (at 624 enrollees) and Orange County (at 575 enrollees)._ 
+###   _As shown, Los Angeles County has the highest number of white enrollees from 2012 to 2022, with a total of 1,249 students. This is followed by San Diego County (at 624 enrollees) and Orange County (at 575 enrollees)._ 
 5.  Now create another pivot table using the data on this new sheet. <br/>
 6.  Set “White” as the row and set “County/State/Territory” as the column. Summarize by “COUNTA.” <br/>
 !['Analysis 4', 'Analysis 4'](/17.jpg)
@@ -113,4 +113,4 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 3.  Copy and paste without formatting the values from 2018 to a new sheet. 
 4.  Sort the column “SUM of African American” from Z → A to find the county with the highest number of total African American applicants, admits and enrollees.<br/>
 !['Analysis 7', 'Analysis 7'](/31.jpg)
-###   _As shown, Los Angeles County had the highest number of total African American applicants, admits, and enrollees. This is followed by Alameda County (at 205 students) and San Diego County (at 125 students)._ 
+###   _As shown, Los Angeles County had the highest number of total African American applicants, admits and enrollees. This is followed by Alameda County (at 205 students) and San Diego County (at 125 students)._ 

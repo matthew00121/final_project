@@ -17,7 +17,7 @@
 !['UC Berkeley's admissions by ethnicity, per county (2022)', 'UC Berkeley's admissions by ethnicity, per county (2022)'](/QlWaa-uc-berkeley-s-admissions-by-ethnicity-per-county-2022-.jpg)
 <br/>
 
-[Line chart]([https://www.datawrapper.de/_/QlWaa/](https://www.datawrapper.de/_/BKgwV/) that displays the number of students who were admitted to UC Berkeley from each ethnicity. Scroll over each line to see the number of admitted students from each ethnicity across the last decade. 
+[Line chart]([https://www.datawrapper.de/_/BKgwV/) that displays the number of students who were admitted to UC Berkeley from each ethnicity. Scroll over each line to see the number of admitted students from each ethnicity across the last decade. 
 !['UC Berkeley's admissions by ethnicity, per county (2022)', 'UC Berkeley's admissions by ethnicity, per county (2022)'](/QlWaa-uc-berkeley-s-admissions-by-ethnicity-per-county-2022-.jpg)
 <br/>
 <br/>

@@ -125,8 +125,6 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 <br/>
 
 ## Sourcing
-<br/>
-
 ### Potential Interview Contacts
 <br/>
 

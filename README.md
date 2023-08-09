@@ -7,29 +7,29 @@ My data analysis identified that the number of Asian admits to UC Berkeley incre
 <br/>
 I will focus my investigation on Los Angeles County because it has the highest number of Hispanic/Latinx admits to UC Berkeley from 2012 to 2022, according to my data analysis. Additionally, Los Angeles County had the highest number of total African American applicants, admits and enrollees. Focusing on Los Angeles County, I hope to investigate how minority group admission rates changed in comparison to white admits. I hope to research changes in the University of California and federal/state policies that may have influenced the ethnic diversity of admitted classes from 2012 to 2022. For instance, there is a noticeably large increase of Hispanic/Latinx admitted students from 2019 to 2020, so I hope to explore the reasons for this occurrence through conducting interviews and researching recent public policy changes and program initiatives. I will also investigate how changes in the staff leading the University of California’s undergraduate admissions influenced admissions rates across all ethnicity groups. After identifying leading reasons for increased UC Berkeley admits from minority groups like the Hispanic/Latinx population, I will also explore the impacts and success rates of these changes to help unearth to what extent the University of California has strengthened the ethnic diversity of its student body. 
 <br/>
-
+<br/>
 ## Sourcing
 ### Potential Interview Contacts
 1.  Olufemi “Femi” Ogundele, who began his work in January 2019 as UC Berkeley’s assistant vice chancellor and director of undergraduate admissions <br/>
-*  Email: olufemi@berkeley.edu<br/>
-*  As UC Berkeley’s assistant vice chancellor and director of undergraduate admissions, Ogundele was key in [increasing ethnic and socio-economic diversity among its admitted students](https://news.berkeley.edu/2020/07/16/femi-ogundele-a-diverse-student-body-fosters-excellence/). I would ask what about the importance of ethnic diversity on campus, and how his work has contributed to UC Berkeley’s increasingly ethnic student body. <br/>
+    *  Email: olufemi@berkeley.edu<br/>
+    *  As UC Berkeley’s assistant vice chancellor and director of undergraduate admissions, Ogundele was [key in increasing ethnic and socio-economic diversity](https://news.berkeley.edu/2020/07/16/femi-ogundele-a-diverse-student-body-fosters-excellence/) among its admitted students. I would ask what about the importance of ethnic diversity on campus, and how his work has contributed to UC Berkeley’s increasingly ethnic student body. <br/>
 2.  Carol Christ, who started her term as UC Berkeley’s 11th Chancellor in July 2017 and plans to retire June 2024<br/>
-*  Email: chancellor@berkeley.edu<br/>
-*  Phone: (510) 642-7464<br/>
-*  As the chancellor, Christ [announced](https://lti.berkeley.edu/) UC Berkeley’s commitment to become a Hispanic Serving Institution in 2018, which entailed expanding equal access to UC Berkeley’s opportunities. I would ask questions about how the university has worked to achieve this goal, and where the university has seen success in their efforts. <br/>
+    *  Email: chancellor@berkeley.edu<br/>
+    *  Phone: (510) 642-7464<br/>
+    *  As the chancellor, Christ [announced UC Berkeley’s commitment](https://lti.berkeley.edu/) to become a Hispanic Serving Institution in 2018, which entailed expanding equal access to UC Berkeley’s opportunities. I would ask questions about how the university has worked to achieve this goal, and where the university has seen success in their efforts. <br/>
 3.  Mayra Herrera, who served as the 2022-23 external executive director of the Latine Recruitment and Retention Center at UC Berkeley<br/>
-*  Email: executive@raices.berkeley.edu<br/>
-*  Instagram: @theraicescenter<br/>
-*  As the executive director of the center that [aims to increase and retain the enrollment of Latinx students](https://sites.google.com/view/theraicescenter?pli=1), Herrera can provide insight into the experience of a Latinx student at UC Berkeley. I would ask questions about the opportunities, resources and student and faculty support they receive, and how they think the university is doing in terms of increasing ethnic diversity. 
+    *  Email: executive@raices.berkeley.edu<br/>
+    *  Instagram: @theraicescenter<br/>
+    *  As the executive director of the center that [aims to increase and retain the enrollment of Latinx students](https://sites.google.com/view/theraicescenter?pli=1), Herrera can provide insight into the experience of a Latinx student at UC Berkeley. I would ask questions about the opportunities, resources and student and faculty support they receive, and how they think the university is doing in terms of increasing ethnic diversity. 
 
 
 ### Additional Sources
 1.  [2020 Census Data on California Counties](https://www.census.gov/library/stories/state-by-state/california-population-change-between-census-decade.html_) <br/>
-*  This source provides data on the race and ethnicity of each California county, according to the 2020 Census. <br/>
-*  This information can be used to identify how the ethnicity rates in each county compare to the admission rates by ethnicity from each county. This would show to what extent the ethnic diversity of each county’s admitted students are truly representative of each county’s population. This will contribute to unearthing to what extent the University of California has worked to promote the ethnic diversity of its student body. <br/>
+    *  This source provides data on the race and ethnicity of each California county, according to the 2020 Census. <br/>
+    *  This information can be used to identify how the ethnicity rates in each county compare to the admission rates by ethnicity from each county. This would show to what extent the ethnic diversity of each county’s admitted students are truly representative of each county’s population. This will contribute to unearthing to what extent the University of California has worked to promote the ethnic diversity of its student body. <br/>
 2.  [Trends in Chicanx/Latinx New Undergraduates at UC Berkeley](https://lti.berkeley.edu/hsi-data)<br/>
-*  This source provides data on Chicanx/Latinx representation of UC Berkeley’s undergraduate and graduate students, ladder faculty and staff. <br/>
-*  This information can be used to identify how Chicanx/Latinx representation has evolved in relation to changes in campus and state policies. This will contribute to measuring the success of the University of California’s initiatives to increase ethnic diversity. 
+    *  This source provides data on Chicanx/Latinx representation of UC Berkeley’s undergraduate and graduate students, ladder faculty and staff. <br/>
+    *  This information can be used to identify how Chicanx/Latinx representation has evolved in relation to changes in campus and state policies. This will contribute to measuring the success of the University of California’s initiatives to increase ethnic diversity. 
 
 <br/>
 <br/>
@@ -42,7 +42,6 @@ I will focus my investigation on Los Angeles County because it has the highest n
 <br/>
 [Choropleth map](https://www.datawrapper.de/_/QlWaa/) that displays the number of students who were admitted to UC Berkeley in each California county. Scroll over each county to see a breakdown of UC Berkeley's admissions by ethnicity. 
 !['UC Berkeley's admissions by ethnicity, per county (2022)', 'UC Berkeley's admissions by ethnicity, per county (2022)'](/222.jpg)
-<br/>
 
 <br/>
 <br/>

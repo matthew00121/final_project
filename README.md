@@ -154,9 +154,7 @@ I will focus my investigation on Los Angeles County because it has the highest n
     *  Email: executive@raices.berkeley.edu<br/>
     *  Instagram: @theraicescenter<br/>
     *  As the executive director of the center that [aims to increase and retain the enrollment of Latinx students](https://sites.google.com/view/theraicescenter?pli=1), Herrera can provide insight into the experience of a Latinx student at UC Berkeley. I would ask questions about the opportunities, resources and student and faculty support they receive, and how they think the university is doing in terms of increasing ethnic diversity. 
-
-<br/>]
-
+<br/>
 ### Additional Sources
 1.  [2020 Census Data on California Counties](https://www.census.gov/library/stories/state-by-state/california-population-change-between-census-decade.html_) <br/>
     *  This source provides data on the race/ethnicity of each California county, according to the 2020 Census. <br/>

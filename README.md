@@ -1,4 +1,4 @@
-# UC Berkeley admissions by ethnicity/race, from 2012-2022
+# UC Berkeley admissions by race/ethnicity, from 2012-2022
 ## By Matthew Yoshimoto
 <br/>
 
@@ -10,7 +10,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 ### Scope of Analysis
 1.  Which county had the overall highest number of Hispanic/ Latinx admits from 2012 to 2022? <br/>
 2.  What was the percentage change of Asian admits from 2012 to 2022? <br/>
-3.  From 2012 to 2022, what were the top ethnicities of students who were admitted most often? How does this compare to the top ethnicities of students who applied most often? <br/>
+3.  From 2012 to 2022, what were the top races/ethnicities of students who were admitted most often? How does this compare to the top races/ethnicities of students who applied most often? <br/>
 4.  From 2012 to 2022, which counties had the highest number of white enrollees? How many counties had zero white enrollees?  <br/>
 5.  From 2012 to 2022, what was the average number of international applicants per each county? Only include the counties that had an average of seven or more international applicants. _Round to the nearest hundredths place._  <br/>
 6.  Which school had the highest number of total applicants, and in which year did this occur? What was the average number of total applicants across all schools from 2012 to 2022? _Round to the nearest hundredths place._  <br/>
@@ -53,9 +53,9 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 
 <br/><br/>
 
-## Analysis 3: From 2012 to 2022, what were the top ethnicities of students who were admitted most often? How does this compare to the top ethnicities of students who applied most often?
+## Analysis 3: From 2012 to 2022, what were the top races/ethnicities of students who were admitted most often? How does this compare to the top races/ethnicities of students who applied most often?
 
-1.  Create a pivot table with “Count” as the first row, followed by “Year” as the next row. Set all ethnicities (“African American,” “American Indian,” “Hispanic/ Latinx,” “Pacific Islander,” “Asian,” “White,” “Domestic Unknown,” “Int'l”) as the column. Summarize all by “SUM.” <br/>!['Analysis 3', 'Analysis 3'](/Screenshots/9.jpg)
+1.  Create a pivot table with “Count” as the first row, followed by “Year” as the next row. Set all races/ethnicities (“African American,” “American Indian,” “Hispanic/ Latinx,” “Pacific Islander,” “Asian,” “White,” “Domestic Unknown,” “Int'l”) as the column. Summarize all by “SUM.” <br/>!['Analysis 3', 'Analysis 3'](/Screenshots/9.jpg)
 2.	Make sure to look at the admitted category. Feel free to minimize the applied and enrolled categories. 
 ### 	_As shown in the admits total row, Asian students were admitted the most often (at 30,671 students), followed by white admits (at 13,226 students) and Hispanic/Latinx admits (at 7,979 students)._ 
 3.  Looking at the same pivot table, expand the applied category and minimize the admitted category. <br/>
@@ -124,7 +124,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 <br/>
 
 ## Data Visualizations
-[Line chart](https://www.datawrapper.de/_/BKgwV/) that displays the number of students who were admitted to UC Berkeley from each ethnicity. Scroll over each line to see the number of admitted students from each ethnicity across the last decade. 
+[Line chart](https://www.datawrapper.de/_/BKgwV/) that displays the number of students who were admitted to UC Berkeley from each race/ethnicity. Scroll over each line to see the number of admitted students from each race/ethnicity across the last decade. 
 !['UC Berkeley's admissions by ethnicity, from 2012-2022', 'UC Berkeley's admissions by ethnicity, from 2012-2022'](/Screenshots/3.jpg)
 <br/>
 <br/>
@@ -138,7 +138,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 ## Story Summary
 My data analysis identified that the number of Asian admits to UC Berkeley increased by 30.75% from 2012 to 2022. Asian students were admitted the most often (at 30,671 students), followed by white admits (at 13,226 students) and Hispanic/Latinx admits (at 7,979 students). However, when looking at the rates of applicants from each ethnic group from 2012 to 2022, I identified that Asian students applied the most often (at 215,551 students), followed by Hispanic/Latinx applicants (at 111,788 students) and white applicants (at 106,278 students). Despite having a similar number of Hispanic/Latinx and white applicants across the decade, the admission rates seemed to favor white students. This inequity in admission rates serves as a potential lead.  
 <br/>
-I will focus my investigation on Los Angeles County because it has the highest number of Hispanic/Latinx admits to UC Berkeley from 2012 to 2022, according to my data analysis. Additionally, Los Angeles County had the highest number of total African American applicants, admits and enrollees. Focusing on Los Angeles County, I hope to investigate how minority group admission rates changed in comparison to white admits. I hope to research changes in the University of California and federal/state policies that may have influenced the ethnic diversity of admitted classes from 2012 to 2022. For instance, there is a noticeably large increase of Hispanic/Latinx admitted students from 2019 to 2020, so I hope to explore the reasons for this occurrence through conducting interviews and researching recent public policy changes and program initiatives. I will also investigate how changes in the staff leading the University of California’s undergraduate admissions influenced admissions rates across all ethnicity groups. After identifying leading reasons for increased UC Berkeley admits from minority groups like the Hispanic/Latinx population, I will also explore the impacts and success rates of these changes to help unearth to what extent the University of California has strengthened the ethnic diversity of its student body. 
+I will focus my investigation on Los Angeles County because it has the highest number of Hispanic/Latinx admits to UC Berkeley from 2012 to 2022, according to my data analysis. Additionally, Los Angeles County had the highest number of total African American applicants, admits and enrollees. Focusing on Los Angeles County, I hope to investigate how minority group admission rates changed in comparison to white admits. I hope to research changes in the University of California and federal/state policies that may have influenced the ethnic diversity of admitted classes from 2012 to 2022. For instance, there is a noticeably large increase of Hispanic/Latinx admitted students from 2019 to 2020, so I hope to explore the reasons for this occurrence through conducting interviews and researching recent public policy changes and program initiatives. I will also investigate how changes in the staff leading the University of California’s undergraduate admissions influenced admissions rates across all race/ethnicity groups. After identifying leading reasons for increased UC Berkeley admits from minority groups like the Hispanic/Latinx population, I will also explore the impacts and success rates of these changes to help unearth to what extent the University of California has strengthened the ethnic diversity of its student body. 
 <br/>
 <br/>
 ## Sourcing
@@ -160,7 +160,7 @@ I will focus my investigation on Los Angeles County because it has the highest n
 
 ### Additional Sources
 1.  [2020 Census Data on California Counties](https://www.census.gov/library/stories/state-by-state/california-population-change-between-census-decade.html_) <br/>
-    *  This source provides data on the race and ethnicity of each California county, according to the 2020 Census. <br/>
+    *  This source provides data on the race/ethnicity of each California county, according to the 2020 Census. <br/>
     *  This information can be used to identify how the ethnicity rates in each county compare to the admission rates by ethnicity from each county. This would show to what extent the ethnic diversity of each county’s admitted students are truly representative of each county’s population. This will contribute to unearthing to what extent the University of California has worked to promote the ethnic diversity of its student body. <br/>
 2.  [Trends in Chicanx/Latinx New Undergraduates at UC Berkeley](https://lti.berkeley.edu/hsi-data)<br/>
     *  This source provides data on Chicanx/Latinx representation of UC Berkeley’s undergraduate and graduate students, ladder faculty and staff. <br/>

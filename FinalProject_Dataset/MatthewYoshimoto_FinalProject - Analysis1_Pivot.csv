@@ -1,0 +1,173 @@
+Count,County/State/ Territory,SUM of Hispanic/ Latinx
+Adm,Alameda,452
+,Amador,0
+,Butte,3
+,Calaveras,3
+,Colusa,0
+,Contra Costa,332
+,Del Norte,0
+,El Dorado,3
+,Fresno,207
+,Glenn,0
+,Humboldt,0
+,Imperial,73
+,Inyo,0
+,Kern,120
+,Kings,0
+,Lake,3
+,Lassen,0
+,Los Angeles,3041
+,Madera,12
+,Marin,31
+,Mariposa,0
+,Mendocino,3
+,Merced,57
+,Mono,0
+,Monterey,176
+,Napa,13
+,Nevada,0
+,Orange,546
+,Placer,34
+,Plumas,0
+,Riverside,413
+,Sacramento,105
+,San Benito,10
+,San Bernardino,329
+,San Diego,756
+,San Francisco,100
+,San Joaquin,52
+,San Luis Obispo,43
+,San Mateo,149
+,Santa Barbara,165
+,Santa Clara,214
+,Santa Cruz,47
+,Shasta,0
+,Sierra,0
+,Siskiyou,0
+,Solano,52
+,Sonoma,10
+,Stanislaus,106
+,Sutter,3
+,Tehama,0
+,Trinity,0
+,Tulare,84
+,Tuolumne,0
+,Ventura,182
+,Yolo,50
+,Yuba,0
+Adm Total,,7979
+App,Alameda,5373
+,Amador,0
+,Butte,41
+,Calaveras,10
+,Colusa,6
+,Contra Costa,3917
+,Del Norte,0
+,El Dorado,93
+,Fresno,2362
+,Glenn,6
+,Humboldt,34
+,Imperial,476
+,Inyo,0
+,Kern,1815
+,Kings,132
+,Lake,25
+,Lassen,0
+,Los Angeles,35302
+,Madera,385
+,Marin,631
+,Mariposa,0
+,Mendocino,108
+,Merced,1003
+,Mono,0
+,Monterey,1869
+,Napa,433
+,Nevada,5
+,Orange,7678
+,Placer,407
+,Plumas,0
+,Riverside,5580
+,Sacramento,1799
+,San Benito,176
+,San Bernardino,4804
+,San Diego,8687
+,San Francisco,1384
+,San Joaquin,1533
+,San Luis Obispo,360
+,San Mateo,2233
+,Santa Barbara,1511
+,Santa Clara,4048
+,Santa Cruz,983
+,Shasta,21
+,Sierra,0
+,Siskiyou,0
+,Solano,811
+,Sonoma,782
+,Stanislaus,1514
+,Sutter,112
+,Tehama,0
+,Trinity,0
+,Tulare,902
+,Tuolumne,0
+,Ventura,2028
+,Yolo,648
+,Yuba,23
+App Total,,102050
+Enr,Alameda,214
+,Amador,0
+,Butte,0
+,Calaveras,0
+,Colusa,0
+,Contra Costa,175
+,Del Norte,0
+,El Dorado,0
+,Fresno,37
+,Glenn,0
+,Humboldt,0
+,Imperial,18
+,Inyo,0
+,Kern,19
+,Kings,0
+,Lake,3
+,Lassen,0
+,Los Angeles,515
+,Madera,0
+,Marin,7
+,Mariposa,0
+,Mendocino,0
+,Merced,13
+,Mono,0
+,Monterey,57
+,Napa,5
+,Nevada,0
+,Orange,89
+,Placer,13
+,Plumas,0
+,Riverside,76
+,Sacramento,26
+,San Benito,3
+,San Bernardino,54
+,San Diego,132
+,San Francisco,68
+,San Joaquin,3
+,San Luis Obispo,12
+,San Mateo,63
+,Santa Barbara,40
+,Santa Clara,45
+,Santa Cruz,12
+,Shasta,0
+,Sierra,0
+,Siskiyou,0
+,Solano,20
+,Sonoma,0
+,Stanislaus,14
+,Sutter,0
+,Tehama,0
+,Trinity,0
+,Tulare,13
+,Tuolumne,0
+,Ventura,13
+,Yolo,0
+,Yuba,0
+Enr Total,,1759
+Grand Total,,111788

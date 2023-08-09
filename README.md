@@ -124,12 +124,12 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 
 ## Data Visualizations
 [Line chart](https://www.datawrapper.de/_/BKgwV/) that displays the number of students who were admitted to UC Berkeley from each race/ethnicity. Scroll over each line to see the number of admitted students from each race/ethnicity across the last decade. 
-!['UC Berkeley's admissions by ethnicity, from 2012-2022', 'UC Berkeley's admissions by ethnicity, from 2012-2022'](/Screenshots/3.jpg)
+!['UC Berkeley's admissions by ethnicity, from 2012-2022', 'UC Berkeley's admissions by ethnicity, from 2012-2022'](/Screenshots/22.jpg)
 <br/>
 <br/>
 <br/>
 [Choropleth map](https://www.datawrapper.de/_/QlWaa/) that displays the number of students who were admitted to UC Berkeley in each California county. Scroll over each county to see a breakdown of UC Berkeley's admissions by ethnicity. 
-!['UC Berkeley's admissions by ethnicity, per county (2022)', 'UC Berkeley's admissions by ethnicity, per county (2022)'](/Screenshots/6.jpg)
+!['UC Berkeley's admissions by ethnicity, per county (2022)', 'UC Berkeley's admissions by ethnicity, per county (2022)'](/Screenshots/21.jpg)
 
 <br/>
 <br/>

@@ -32,7 +32,7 @@ I will focus my investigation on Los Angeles County because it has the highest n
 *  This information can be used to identify how Chicanx/Latinx representation has evolved in relation to changes in campus and state policies. This will contribute to measuring the success of the University of California’s initiatives to increase ethnic diversity. 
 
 <br/>
-
+<br/>
 
 ## Data Visualizations
 [Line chart](https://www.datawrapper.de/_/BKgwV/) that displays the number of students who were admitted to UC Berkeley from each ethnicity. Scroll over each line to see the number of admitted students from each ethnicity across the last decade. 

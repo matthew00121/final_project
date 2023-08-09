@@ -153,7 +153,8 @@ I will focus my investigation on Los Angeles County because it has the highest n
 3.  Mayra Herrera, who served as the 2022-23 external executive director of the Latine Recruitment and Retention Center at UC Berkeley<br/>
     *  Email: executive@raices.berkeley.edu<br/>
     *  Instagram: @theraicescenter<br/>
-    *  As the executive director of the center that [aims to increase and retain the enrollment of Latinx students](https://sites.google.com/view/theraicescenter?pli=1), Herrera can provide insight into the experience of a Latinx student at UC Berkeley. I would ask questions about the opportunities, resources and student and faculty support they receive, and how they think the university is doing in terms of increasing ethnic diversity. 
+    *  As the executive director of the center that [aims to increase and retain the enrollment of Latinx students](https://sites.google.com/view/theraicescenter?pli=1), Herrera can provide insight into the experience of a Latinx student at UC Berkeley. I would ask questions about the opportunities, resources and student and faculty support they receive, and how they think the university is doing in terms of increasing ethnic diversity.
+    
 <br/>
 
 ### Additional Sources

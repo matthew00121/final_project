@@ -1,4 +1,4 @@
-# UC Berkeley admissions by race/ethnicity, from 2012-2022
+# Data Analysis of UC Berkeley admissions by race/ethnicity, from 2012-2022
 ## By Matthew Yoshimoto
 <br/>
 

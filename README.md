@@ -1,4 +1,4 @@
-# J124: UC Berkeley admissions by ethnicity, 2012-1022
+# UC Berkeley admissions by ethnicity, from 2012-2022
 ## By Matthew Yoshimoto
 <br/>
 

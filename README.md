@@ -157,7 +157,7 @@ I will focus my investigation on Los Angeles County because it has the highest n
 <br/>
 
 ### Additional Sources
-1.  [2020 Census Data on California Counties](https://www.census.gov/library/stories/state-by-state/california-population-change-between-census-decade.html_) <br/>
+1.  [2020 Census Data on California Counties](https://www.census.gov/library/stories/state-by-state/california-population-change-between-census-decade.html) <br/>
     *  This source provides data on the race/ethnicity of each California county, according to the 2020 Census. <br/>
     *  This information can be used to identify how the ethnicity rates in each county compare to the admission rates by ethnicity from each county. This would show to what extent the ethnic diversity of each county’s admitted students are reflective of each county’s population. This will contribute to unearthing to what extent the University of California has successfully worked to promote the ethnic diversity of its student body. <br/>
 2.  [Trends in Chicanx/Latinx New Undergraduates at UC Berkeley](https://lti.berkeley.edu/hsi-data)<br/>

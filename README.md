@@ -32,7 +32,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 3.	Copy and paste without formatting the admits values to a new sheet.<br/>
 4.	Sort the column “Hispanic/Latinx” from Z → A to find the county with the highest number of Hispanic/Latinx admits.<br/>
 !['Analysis 1', 'Analysis 1'](/Screenshots/28.jpg)
-####   _As shown, Los Angeles County has the highest number of Hispanic/Latinx admits at UC Berkeley from 2012 to 2022, with a total of 3041 students._
+####   _As shown, Los Angeles County has the highest number of Hispanic/Latinx admits at UC Berkeley from 2012 to 2022, with a total of 3,041 students._
 
 
 

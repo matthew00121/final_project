@@ -116,7 +116,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 3.  Copy and paste without formatting the values from 2018 to a new sheet. 
 4.  Sort the column “SUM of African American” from Z → A to find the county with the highest number of total African American applicants, admits and enrollees.<br/>
 !['Analysis 7', 'Analysis 7'](/Screenshots/23.jpg)
-####   _As shown, Los Angeles County had the highest number of total African American applicants, admits and enrollees. This is followed by Alameda County (at 205 students) and San Diego County (at 125 students)._ 
+####   _As shown, Los Angeles County had the highest number of total African American applicants, admits and enrollees (at 570 students). This is followed by Alameda County (at 205 students) and San Diego County (at 125 students)._ 
 
 <br/>
 <br/>

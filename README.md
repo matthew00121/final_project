@@ -16,12 +16,12 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 7.  In 2018, what were the top counties with the highest number of total African American applicants, admits and enrollees? <br/>
 
 ### Key Assumptions
-*  In the original dataset, the number of applicants, admits and enrollees for any category with fewer than five applicants are shown as blank. The number of admits and number of enrollees for any category with fewer than three students are shown as blank.
+*  In the original dataset, the number of applicants, admits and enrollees for any category with fewer than five applicants are shown as blank. The number of admits and number of enrollees for any category with fewer than three students are also shown as blank.
 *  The schools listed are all public high schools in California, including charter schools. <br/>
 *  The abbreviation “App” represents applicants, or students who make a formal application to attend the University of California. <br/>
 *  The abbreviation “Adm” represents admits, or students who have been made a formal offer of admission to attend the University of California. <br/>
 *  The abbreviation “Enr” represents enrollees, or students who have accepted an offer of admission and are enrolled at the University of California. <br/>
-*  This data analysis follows the language used in the original data set, such as "African American" to refer to Black students and "American Indian" to refer to Native American students.
+*  This data analysis follows the language used in the original data set, including the term "African American" to refer to Black students and the term "American Indian" to refer to Native American students.
 
 <br/>
 

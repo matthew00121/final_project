@@ -4,7 +4,7 @@
 
 ## Data Analysis Process 
 The first step of my analysis was to join the [data from UC Berkeley’s admissions from 2012 to 2022](https://www.universityofcalifornia.edu/about-us/information-center/admissions-source-school) onto one spreadsheet. I next inserted a column of the admissions year to the left of each school name. To clean my data, I had to unmerge the combined cells (which were the school, city and county columns) and then use the [array formula](https://infoinspired.com/google-docs/spreadsheet/fill-merged-cells-in-google-sheets/) to fill the merged cells down. This made it so that the schools, cities and counties were now listed in every row. At this point, I could begin my data analysis. This is the [dataset I analyzed in Google Sheets](https://docs.google.com/spreadsheets/d/1oYrYav8eZLnbJ14ZFdc4DFqpaceefVChhTK2Kuado08/edit#gid=0).  <br/>
-!['Data Analysis Process', 'Data Analysis Process'](/Screenshots/1.jpg) <br/>
+!['Data Analysis Process', 'Data Analysis Process'](/Screenshots/29.jpg) <br/>
 
 ### Scope of Analysis
 1.  Which county had the overall highest number of Hispanic/ Latinx admits from 2012 to 2022? <br/>
@@ -31,7 +31,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 2.	Make sure to look at the admits category. Feel free to minimize the applicants and enrolled categories.<br/>
 3.	Copy and paste without formatting the admits values to a new sheet.<br/>
 4.	Sort the column “Hispanic/Latinx” from Z → A to find the county with the highest number of Hispanic/Latinx admits.<br/>
-!['Analysis 1', 'Analysis 1'](/Screenshots/4.jpg)
+!['Analysis 1', 'Analysis 1'](/Screenshots/28.jpg)
 ####   _As shown, Los Angeles County has the highest number of Hispanic/Latinx admits at UC Berkeley from 2012 to 2022, with a total of 3041 students._
 
 
@@ -45,7 +45,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 2.  Make sure to look at the admitted category. Feel free to minimize the applied and enrolled categories. 
 3.  Copy and paste without formatting the admitted values to a new sheet. <br/>
 4.  Use the formula (NEW-OLD)/OLD or (B12-B2)/B2 to calculate the percentage change  of Asian admits from 2012 to 2022. _*Make sure to change the formatting of the percentage change to a percentage._ <br/>
-!['Analysis 2', 'Analysis 2'](/Screenshots/8.jpg)
+!['Analysis 2', 'Analysis 2'](/Screenshots/27.jpg)
 ####   _As shown, the number of of Asian admits from 2012 to 2022 increased by 30.75%._
 
 
@@ -72,7 +72,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 2.	Make sure to look at the enrolled category. Feel free to minimize the applied and admitted categories. 
 3.  Copy and paste without formatting the enrolled values to a new sheet. <br/>
 4.	Sort the column “SUM of White” from Z → A to find the county with the highest number of white enrollees.<br/>
-!['Analysis 4', 'Analysis 4'](/Screenshots/15.jpg)
+!['Analysis 4', 'Analysis 4'](/Screenshots/26.jpg)
 ####   _As shown, Los Angeles County has the highest number of white enrollees from 2012 to 2022, with a total of 1,249 students. This is followed by San Diego County (at 624 enrollees) and Orange County (at 575 enrollees)._ 
 5.  Now create another pivot table using the data on this new sheet. <br/>
 6.  Set “White” as the row and set “County/State/Territory” as the column. Summarize by “COUNTA.” <br/>
@@ -91,7 +91,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 !['Analysis 5', 'Analysis 5'](/Screenshots/19.jpg) 
 4.  To round to nearest hundredths, format the values as “Number”.!['Analysis 5', 'Analysis 5'](/Screenshots/20.jpg)
 5.  Copy and paste without formatting the enrolled values to a new sheet. 
-6.  Sort the column “AVERAGE of Int’l” from Z → A to find the counties that had the highest averages of international applicants. <br/>!['Analysis 5', 'Analysis 5'](/Screenshots/16.jpg)
+6.  Sort the column “AVERAGE of Int’l” from Z → A to find the counties that had the highest averages of international applicants. <br/>!['Analysis 5', 'Analysis 5'](/Screenshots/25.jpg)
 ####   _As shown, from 2012 to 2022, San Joaquin County had 9.67 applicants, Santa Clara County had 9.38 applicants, Alameda County had an average of 8.20 international applicants, San Diego County had 7.27 applicants and Contra Costa County had 7.13 applicants._
 
 
@@ -102,7 +102,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 1.  Make a copy of the original sheet of data. Sort the “All” column from Z → A to find the schools that had the highest number of total applicants. <br/>!['Analysis 6', 'Analysis 6'](/Screenshots/14.jpg)
 ####   _As shown, Dougherty Valley High School had the highest number of total applicants (at 547 students). This occurred in 2022._ 
 2.  To find the average number of total applicants across all schools from 2012 to 2022, click on the “All” column and locate the “Sum” button on the bottom right of the sheet. <br/>
-3.  Click on the “Sum” button and select “Avg”. <br/>!['Analysis 6', 'Analysis 6'](/Screenshots/13.jpg)
+3.  Click on the “Sum” button and select “Avg”. <br/>!['Analysis 6', 'Analysis 6'](/Screenshots/24.jpg)
 ####   _As shown, the average number of total applicants across all schools from 2012 to 2022 was 25.73 applicants._ 
 
 
@@ -115,7 +115,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 2.  Make sure to look at 2018 category. Feel free to minimize the 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2021 and 2022 categories. 
 3.  Copy and paste without formatting the values from 2018 to a new sheet. 
 4.  Sort the column “SUM of African American” from Z → A to find the county with the highest number of total African American applicants, admits and enrollees.<br/>
-!['Analysis 7', 'Analysis 7'](/Screenshots/7.jpg)
+!['Analysis 7', 'Analysis 7'](/Screenshots/23.jpg)
 ####   _As shown, Los Angeles County had the highest number of total African American applicants, admits and enrollees. This is followed by Alameda County (at 205 students) and San Diego County (at 125 students)._ 
 
 <br/>

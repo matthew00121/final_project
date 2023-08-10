@@ -10,7 +10,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 1.  Which county had the overall highest number of Hispanic/ Latinx admits from 2012 to 2022? <br/>
 2.  What was the percentage change of Asian admits from 2012 to 2022? <br/>
 3.  From 2012 to 2022, what were the top races/ethnicities of students who were admitted most often? How does this compare to the top races/ethnicities of students who applied most often? <br/>
-4.  From 2012 to 2022, which counties had the highest number of white enrollees? How many counties had zero white enrollees?  <br/>
+4.  From 2012 to 2022, which counties had the highest number of white enrollees? How many counties had no white enrollees?  <br/>
 5.  From 2012 to 2022, what was the average number of international applicants per each county? Only include the counties that had an average of seven or more international applicants. _Round to the nearest hundredths place._  <br/>
 6.  Which school had the highest number of total applicants, and in which year did this occur? What was the average number of total applicants across all schools from 2012 to 2022? _Round to the nearest hundredths place._  <br/>
 7.  In 2018, what were the top counties with the highest number of total African American applicants, admits and enrollees? <br/>
@@ -65,7 +65,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 
 <br/><br/>
 
-### Analysis 4: From 2012 to 2022, which counties had the highest number of white enrollees? How many counties had zero white enrollees? 
+### Analysis 4: From 2012 to 2022, which counties had the highest number of white enrollees? How many counties had no white enrollees? 
 
 1.  Create a pivot table with “Count” as the first row, followed by “County/State/Territory” as the next row. Set “White” as the column. Summarize all by “SUM.” <br/>
 !['Analysis 4', 'Analysis 4'](/Screenshots/12.jpg)

@@ -21,7 +21,7 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 *  The abbreviation “App” represents applicants, or students who make a formal application to attend the University of California. <br/>
 *  The abbreviation “Adm” represents admits, or students who have been made a formal offer of admission to attend the University of California. <br/>
 *  The abbreviation “Enr” represents enrollees, or students who have accepted an offer of admission and are enrolled at the University of California. <br/>
-*  This data analysis uses the term "African American" to refer to Black students, following the language used in the original data set provided by the University of California to reduce confusion. 
+*  This data analysis follows the language used in the original data set, such as "African American" to refer to Black students and "American Indian" to refer to Native American students.
 
 <br/>
 

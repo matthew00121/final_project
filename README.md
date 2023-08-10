@@ -55,9 +55,9 @@ The first step of my analysis was to join the [data from UC Berkeley’s admissi
 ### Analysis 3: From 2012 to 2022, what were the top races/ethnicities of students who were admitted most often? How does this compare to the top races/ethnicities of students who applied most often?
 
 1.  Create a pivot table with “Count” as the first row, followed by “Year” as the next row. Set all races/ethnicities (“African American,” “American Indian,” “Hispanic/ Latinx,” “Pacific Islander,” “Asian,” “White,” “Domestic Unknown,” “Int'l”) as the column. Summarize all by “SUM.” <br/>!['Analysis 3', 'Analysis 3'](/Screenshots/9.jpg)
-2.	Make sure to look at the admitted category. Feel free to minimize the applied and enrolled categories. 
+2.	Make sure to look at the admitted category to compare values. Feel free to minimize the applied and enrolled categories. 
 #### 	_As shown in the admits total row, Asian students were admitted the most often (at 30,671 students), followed by white admits (at 13,226 students) and Hispanic/Latinx admits (at 7,979 students)._ 
-3.  Looking at the same pivot table, expand the applied category and minimize the admitted category. <br/>
+3.  Looking at the same pivot table, expand the applied category to compare values and minimize the admitted category. <br/>
 !['Analysis 3', 'Analysis 3'](/Screenshots/11.jpg)
 ####   _As shown in the applicants total row, Asian students applied the most often (at 215,551 students), followed by Hispanic/Latinx applicants (at 111,788 students) and white applicants (at 106,278 students)._ 
 
